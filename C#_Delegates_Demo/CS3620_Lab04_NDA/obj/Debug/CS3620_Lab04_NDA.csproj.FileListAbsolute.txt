@@ -1,0 +1,10 @@
+D:\Needed\Software Development\Portfolio\C#_Delegates_Demo\CS3620_Lab04_NDA\obj\Debug\CS3620_Lab04_NDA.csprojAssemblyReference.cache
+D:\Needed\Software Development\Portfolio\C#_Delegates_Demo\CS3620_Lab04_NDA\obj\Debug\CS3620_Lab04_NDA.Form1.resources
+D:\Needed\Software Development\Portfolio\C#_Delegates_Demo\CS3620_Lab04_NDA\obj\Debug\CS3620_Lab04_NDA.csproj.GenerateResource.cache
+D:\Needed\Software Development\Portfolio\C#_Delegates_Demo\CS3620_Lab04_NDA\bin\Debug\CS3620_Lab04_NDA.exe.config
+D:\Needed\Software Development\Portfolio\C#_Delegates_Demo\CS3620_Lab04_NDA\bin\Debug\CS3620_Lab04_NDA.exe
+D:\Needed\Software Development\Portfolio\C#_Delegates_Demo\CS3620_Lab04_NDA\bin\Debug\CS3620_Lab04_NDA.pdb
+D:\Needed\Software Development\Portfolio\C#_Delegates_Demo\CS3620_Lab04_NDA\obj\Debug\CS3620_Lab04_NDA.Properties.Resources.resources
+D:\Needed\Software Development\Portfolio\C#_Delegates_Demo\CS3620_Lab04_NDA\obj\Debug\CS3620_Lab04_NDA.csproj.CoreCompileInputs.cache
+D:\Needed\Software Development\Portfolio\C#_Delegates_Demo\CS3620_Lab04_NDA\obj\Debug\CS3620_Lab04_NDA.exe
+D:\Needed\Software Development\Portfolio\C#_Delegates_Demo\CS3620_Lab04_NDA\obj\Debug\CS3620_Lab04_NDA.pdb
